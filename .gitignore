@@ -1,4 +1,4 @@
-src/main/resources/certs
+src/main/resources/certs/
 
 HELP.md
 target/
